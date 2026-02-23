@@ -1,0 +1,28 @@
+The Old Man and The Sea - Page Number Correspondence Table
+==================================================
+
+Beginning Part:
+Overall Range: Pages 2-9
+  Node 1: Pages 2-3
+  Node 2: Pages 4-5
+  Node 3: Pages 6-7
+  Node 4: Pages 8-9
+
+Development Part:
+Overall Range: Pages 10-25
+  Node 1: Pages 10-13
+  Node 2: Pages 14-17
+  Node 3: Pages 18-21
+  Node 4: Pages 22-25
+
+Climax Part:
+Overall Range: Pages 26-38
+  Node 1: Pages 26-29
+  Node 2: Pages 30-33
+  Node 3: Pages 34-38
+
+Resolution Part:
+Overall Range: Pages 39-48
+  Node 1: Pages 39-42
+  Node 2: Pages 43-46
+  Node 3: Pages 47-48

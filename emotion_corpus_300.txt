@@ -1,0 +1,228 @@
+
+I am happy and joyful	Positive
+She smiled with delight	Positive
+Feeling satisfied and content	Positive
+The day was wonderful and blissful	Positive
+He was optimistic and cheerful	Positive
+Life feels bright and promising	Positive
+I love this beautiful morning	Positive
+Happiness fills my heart today	Positive
+Everything is going well for me	Positive
+Joy is all around me	Positive
+I feel excited and energetic	Positive
+Today is perfect and amazing	Positive
+I am grateful for everything	Positive
+The sun makes me feel warm and happy	Positive
+I enjoy every moment of life	Positive
+I feel peaceful and relaxed	Positive
+Love surrounds me everywhere	Positive
+This is a beautiful and inspiring day	Positive
+I am confident and strong	Positive
+I feel motivated to achieve my goals	Positive
+I am proud of my accomplishments	Positive
+Smiles and laughter brighten my day	Positive
+I feel enthusiastic about the future	Positive
+Everything is going according to plan	Positive
+I am content with my life	Positive
+I feel cheerful and optimistic	Positive
+The world feels wonderful today	Positive
+I am enjoying the moment	Positive
+Happiness is contagious around me	Positive
+I am surrounded by positivity	Positive
+I feel inspired to create	Positive
+Life is full of opportunities	Positive
+I feel lucky and blessed	Positive
+This day is delightful and joyful	Positive
+I feel calm and at peace	Positive
+I am smiling from ear to ear	Positive
+I am thrilled and exhilarated	Positive
+I feel confident and capable	Positive
+I am in a good mood	Positive
+I appreciate all the good things	Positive
+I am happy with myself	Positive
+I feel content and fulfilled	Positive
+I am in high spirits	Positive
+Life is beautiful and bright	Positive
+I am full of energy and excitement	Positive
+Positive vibes surround me	Positive
+I feel optimistic and hopeful	Positive
+I am enjoying this wonderful experience	Positive
+I feel cheerful and lively	Positive
+Everything seems perfect today	Positive
+I am overjoyed and delighted	Positive
+I feel light-hearted and joyful	Positive
+I am happy to be alive	Positive
+I feel good about everything	Positive
+I am radiating happiness	Positive
+I feel positive and enthusiastic	Positive
+I am uplifted and inspired	Positive
+I feel playful and carefree	Positive
+I am enjoying life to the fullest	Positive
+I am relaxed and stress-free	Positive
+I feel wonderful and amazing	Positive
+I am content with the present moment	Positive
+I am enthusiastic about my life	Positive
+I feel bright and cheerful	Positive
+I am surrounded by happiness	Positive
+I feel wonderful inside and out	Positive
+I am grateful and joyful	Positive
+I feel delighted and pleased	Positive
+I am happy with my choices	Positive
+I feel refreshed and energized	Positive
+I am cheerful and happy	Positive
+I feel vibrant and alive	Positive
+I am in a joyful state	Positive
+I feel elated and thrilled	Positive
+I am happy and carefree	Positive
+I feel exuberant and lively	Positive
+I am enjoying every second	Positive
+I feel serene and content	Positive
+I am thrilled about today	Positive
+I feel happy and light	Positive
+I am optimistic about the future	Positive
+I feel joyous and satisfied	Positive
+I am gleeful and happy	Positive
+I feel wonderful about life	Positive
+I am in a state of bliss	Positive
+I feel delighted and ecstatic	Positive
+I am happy with my progress	Positive
+I feel enthusiastic and positive	Positive
+I am loving life	Positive
+I feel cheerful and satisfied	Positive
+I am happy and fulfilled	Positive
+I feel optimistic and confident	Positive
+I am inspired and happy	Positive
+I feel joy and excitement	Positive
+I am radiant and positive	Positive
+I feel blessed and happy	Positive
+I feel sad and depressed	Negative
+He was angry and furious	Negative
+Tears fell as sorrow filled me	Negative
+I am frustrated and disappointed	Negative
+The situation is frightening and scary	Negative
+I cannot stop feeling hopeless	Negative
+She looked at me with disdain	Negative
+This is such a terrible day	Negative
+I am anxious and worried	Negative
+Nothing seems to go right today	Negative
+I feel miserable and lonely	Negative
+I am heartbroken and upset	Negative
+He shouted in anger and rage	Negative
+I am gloomy and downhearted	Negative
+This makes me feel hopeless	Negative
+I feel tense and nervous	Negative
+I am discouraged and sad	Negative
+The experience left me feeling hurt	Negative
+I am upset and frustrated	Negative
+I feel disheartened and depressed	Negative
+I am overwhelmed and anxious	Negative
+This situation makes me uneasy	Negative
+I feel distressed and troubled	Negative
+I am worried and concerned	Negative
+I feel frustrated and annoyed	Negative
+I am nervous and jittery	Negative
+I feel upset and gloomy	Negative
+I am dismayed and sad	Negative
+This is stressful and worrying	Negative
+I feel angry and irritated	Negative
+I am feeling miserable today	Negative
+I feel disappointed and sad	Negative
+I am upset about what happened	Negative
+I feel helpless and alone	Negative
+I am upset and distressed	Negative
+I feel tense and upset	Negative
+I am frustrated and anxious	Negative
+I feel sorrowful and down	Negative
+I am disheartened and low	Negative
+I feel melancholy and unhappy	Negative
+I am feeling down and depressed	Negative
+I feel distressed and anxious	Negative
+I am worried and upset	Negative
+I feel uneasy and concerned	Negative
+I am angry and upset	Negative
+I feel frustrated and sad	Negative
+I am disappointed and low	Negative
+I feel miserable and unhappy	Negative
+I am discouraged and anxious	Negative
+I feel gloomy and down	Negative
+I am stressed and worried	Negative
+I feel upset and tense	Negative
+I am sad and frustrated	Negative
+I feel hopeless and depressed	Negative
+I am irritated and angry	Negative
+I feel hurt and sad	Negative
+I am anxious and uneasy	Negative
+I feel distressed and sad	Negative
+I am angry and frustrated	Negative
+I feel worried and anxious	Negative
+I am saddened by the events	Negative
+I feel sorrowful and upset	Negative
+I was amazed and astonished	Surprise
+The sudden event shocked everyone	Surprise
+Unexpected news left me stunned	Surprise
+He was bewildered by the surprise	Surprise
+An abrupt turn of events amazed us	Surprise
+The announcement left me speechless	Surprise
+I did not see that coming	Surprise
+She gasped in utter surprise	Surprise
+The twist in the story amazed everyone	Surprise
+What an unbelievable turn of events	Surprise
+I was startled by the sudden news	Surprise
+The sudden change shocked me	Surprise
+I was flabbergasted and amazed	Surprise
+The unexpected event left me speechless	Surprise
+I could not believe my eyes	Surprise
+The sudden incident caught me off guard	Surprise
+I was shocked beyond words	Surprise
+The surprise left me dumbfounded	Surprise
+I was taken aback by the news	Surprise
+The shocking news stunned everyone	Surprise
+I was amazed at the unexpected results	Surprise
+The event was astonishing and surprising	Surprise
+I was caught by surprise	Surprise
+I was startled and amazed	Surprise
+The sudden revelation shocked me	Surprise
+I was flabbergasted by the outcome	Surprise
+I was astounded by the announcement	Surprise
+The surprise left me in awe	Surprise
+I was amazed by the unexpected development	Surprise
+I could not anticipate this event	Surprise
+I was shocked and amazed	Surprise
+The unexpected news startled me	Surprise
+I was astonished at the sudden turn	Surprise
+I was taken aback by the shocking news	Surprise
+The surprise left me amazed	Surprise
+I was amazed and bewildered	Surprise
+The sudden event left me speechless	Surprise
+I was surprised beyond belief	Surprise
+The astonishing news caught me off guard	Surprise
+I was flabbergasted by the sudden turn	Surprise
+I was amazed at the unforeseen event	Surprise
+The unexpected incident left me stunned	Surprise
+I was shocked and surprised	Surprise
+The surprise amazed everyone	Surprise
+I was taken aback and astonished	Surprise
+I was astounded by the sudden event	Surprise
+I could not predict this surprise	Surprise
+I was startled by the unforeseen event	Surprise
+I was amazed by the shocking revelation	Surprise
+I was dumbfounded by the unexpected news	Surprise
+I was amazed at what just happened	Surprise
+The sudden shock left me amazed	Surprise
+I was astonished beyond words	Surprise
+I was amazed and shocked	Surprise
+The event surprised me greatly	Surprise
+I was flabbergasted by the news	Surprise
+I was amazed by the sudden incident	Surprise
+I was shocked at the unexpected turn	Surprise
+The surprise left me astounded	Surprise
+I was amazed by the turn of events	Surprise
+I was surprised and stunned	Surprise
+The shocking incident left me amazed	Surprise
+I was astonished at the surprise	Surprise
+I was amazed by what I saw	Surprise
+I could not believe the sudden event	Surprise
+I was shocked and astonished	Surprise
+The unexpected news left me amazed	Surprise
+I was amazed by the unforeseen news	Surprise
+I was startled and astonished	Surprise

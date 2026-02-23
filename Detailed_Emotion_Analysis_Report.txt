@@ -1,0 +1,189 @@
+DETAILED EMOTION ANALYSIS REPORT - THE OLD MAN AND THE SEA
+======================================================================
+Analysis with multiple nodes per chapter
+
+
+BEGINNING ANALYSIS
+--------------------------------------------------
+Total words: 3888
+Number of nodes: 7
+
+Node 1:
+  Words: 555
+  Anger: 5
+  Sadness: 2
+  Anticipation: 2
+
+Node 2:
+  Words: 555
+  Trust: 2
+  Surprise: 1
+  Anticipation: 1
+
+Node 3:
+  Words: 555
+  Anger: 3
+  Sadness: 1
+
+Node 4:
+  Words: 555
+  Fear: 3
+  Joy: 1
+  Trust: 1
+
+Node 5:
+  Words: 555
+
+Node 6:
+  Words: 555
+  Fear: 2
+  Joy: 1
+  Trust: 1
+
+Node 7:
+  Words: 558
+
+
+DEVELOPMENT ANALYSIS
+--------------------------------------------------
+Total words: 14746
+Number of nodes: 8
+
+Node 1:
+  Words: 1843
+  Anger: 10
+  Anticipation: 4
+  Surprise: 3
+
+Node 2:
+  Words: 1843
+  Anger: 4
+  Joy: 3
+  Anticipation: 2
+
+Node 3:
+  Words: 1843
+  Anger: 8
+  Surprise: 4
+  Fear: 3
+
+Node 4:
+  Words: 1843
+  Anger: 13
+  Trust: 3
+  Surprise: 3
+
+Node 5:
+  Words: 1843
+  Anger: 4
+  Trust: 3
+  Surprise: 3
+
+Node 6:
+  Words: 1843
+  Trust: 6
+  Anger: 3
+  Surprise: 3
+
+Node 7:
+  Words: 1843
+  Anger: 5
+  Trust: 3
+  Fear: 2
+
+Node 8:
+  Words: 1845
+  Anger: 8
+  Fear: 6
+  Surprise: 4
+
+
+CLIMAX ANALYSIS
+--------------------------------------------------
+Total words: 1223
+Number of nodes: 4
+
+Node 1:
+  Words: 305
+  Anger: 1
+
+Node 2:
+  Words: 305
+  Anger: 1
+
+Node 3:
+  Words: 305
+  Anticipation: 1
+
+Node 4:
+  Words: 308
+  Anger: 1
+  Anticipation: 1
+
+
+RESOLUTION ANALYSIS
+--------------------------------------------------
+Total words: 7389
+Number of nodes: 8
+
+Node 1:
+  Words: 923
+  Anger: 4
+  Trust: 2
+  Anticipation: 2
+
+Node 2:
+  Words: 923
+  Anticipation: 3
+  Trust: 2
+  Fear: 1
+
+Node 3:
+  Words: 923
+  Trust: 4
+  Anger: 2
+  Joy: 2
+
+Node 4:
+  Words: 923
+  Anger: 2
+  Trust: 2
+
+Node 5:
+  Words: 923
+  Anger: 5
+  Trust: 1
+  Anticipation: 1
+
+Node 6:
+  Words: 923
+  Trust: 6
+  Anticipation: 4
+  Fear: 2
+
+Node 7:
+  Words: 923
+  Anger: 2
+  Sadness: 2
+  Fear: 1
+
+Node 8:
+  Words: 928
+  Sadness: 5
+  Anticipation: 2
+  Trust: 1
+
+
+OVERALL STATISTICS
+--------------------------------------------------
+Most frequent emotion overall: Anger (84 occurrences)
+
+Emotion distribution:
+  Fear: 26
+  Anger: 84
+  Joy: 12
+  Sadness: 15
+  Trust: 44
+  Surprise: 24
+  Anticipation: 36
+  Disgust: 2
