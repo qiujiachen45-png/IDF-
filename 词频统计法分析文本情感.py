@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#词频统计法
 import re
 import jieba
 from collections import Counter
